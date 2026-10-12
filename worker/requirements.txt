@@ -1,0 +1,11 @@
+anthropic>=0.70
+groq>=0.30
+supabase>=2.10
+yt-dlp>=2025.9.0
+recipe-scrapers>=15.0
+trafilatura>=2.0
+httpx>=0.27
+curl_cffi>=0.7   # browser impersonation for recipe sites and yt-dlp (TikTok)
+pydantic>=2.9
+python-dotenv>=1.0
+pytest>=8.0
